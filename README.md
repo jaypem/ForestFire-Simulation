@@ -53,3 +53,7 @@ python3 draw_temperature.py
 cd ..
 
 ```
+
+## Contributors
+
+Special thanks to [Tristan Kreuziger](https://github.com/tkreuziger) for his valuable contributions!
